@@ -1,0 +1,24 @@
+//
+// Created by minau on 11/30/2022.
+//
+
+#ifndef SFML_PROJECT_DEFINITIONS_H
+#define SFML_PROJECT_DEFINITIONS_H
+
+#define SCREEN_WIDTH 769
+#define SCREEN_LENGTH 1024
+#define SPLASH_SCREEN_TIME 2.0
+#define GRAVITY 25.0f
+#define dt 1.0f/60.0f
+#define ROTATION_SPEED 13.0f
+#define FLYING_SPEED 25.0f
+#define FLYING_DURATION 0.25f
+#define BIRD_ANIMATION_DURATION 0.5f
+#define LAND_SPEED 15.0f
+#define PIPE_SPAWN_SPEED 1.0f
+#define PIPE_SPEED 15.0f
+#define FLASH_SPEED 2.5f
+#define GAMEOVER_TIME 2
+#define GAMEOVER_SPEED 1
+
+#endif //SFML_PROJECT_DEFINITIONS_H
