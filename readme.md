@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Min Aung Paing</h1>
-<h3 align="center">A passionate computer science student with passion in Machine Learning</h3>
+<h3 align="center">A passionate computer science student with interest in Machine Learning and AI</h3>
 
-- 🔭 I’m currently working on **HR Management System**
+- 🔭 I’m currently looking for **SWE internships**
 
-- 🌱 I’m currently learning **Assembly Languages**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Projects relating to app or web development**
 
-- 📫 How to reach me **minaungpaing.pp@gmail.com**
+- 📫 How to reach me **minaungpaing515@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
