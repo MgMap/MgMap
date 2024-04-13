@@ -216,10 +216,6 @@ while True:
     commands['claw'] = clawValue  # send the claw value
     commands['rotate'] = rotateValue  # send the servo value to arduino Addded: 4/6/24
 
-    mLeftSlider.value = commands['tleft']  # assign thruster values to a display
-    mRightSlider.value = commands['tright']
-    leftUpSlider.value = commands['tup']
-    rightUpSlider.value = commands['tup']
 
     MESSAGE = json.dumps(commands)  # puts python dictionary in Json format
     ser.write(bytes(MESSAGE, 'utf-8'))  # byte format sent to arduino
@@ -236,6 +232,13 @@ while True:
         th_right_display.value = dict_json['sig_rt']  # horizontal thruster value from Arduino
         claw_display.value = dict_json['claw']  # claw value from Arduino
         rotate_display.value = dict_json['rotate']  # servo value from Arduino
+
+        mLeftSlider.value = dict_json['sig_lf']  # assign thruster values to a display
+        mRightSlider.value = dict_json['sig_rt']
+        leftUpSlider.value = dict_json['sig_up_1']
+        rightUpSlider.value = dict_json['sig_up_1']
+
+        print("JSON file is", dict_json)
 
         ser.flush()
 
