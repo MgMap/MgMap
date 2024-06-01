@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Aung Paing</h1>
-<h3 align="center">A passionate computer science student with interest in Machine Learning and AI</h3>
+<h3 align="center">A passionate computer science student with an interest in Machine Learning and AI</h3>
 
 - 🔭 I’m currently looking for **SWE internships**
 
