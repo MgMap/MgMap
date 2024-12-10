@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **minaungpaing515@gmail.com**
 
+- My latest work - https://github.com/AMEX-2A/Detector-Redactor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
